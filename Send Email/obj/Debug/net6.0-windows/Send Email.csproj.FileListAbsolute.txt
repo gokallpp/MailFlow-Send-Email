@@ -1,0 +1,19 @@
+C:\Users\gokal\source\repos\Send Email\Send Email\bin\Debug\net6.0-windows\Send Email.exe
+C:\Users\gokal\source\repos\Send Email\Send Email\bin\Debug\net6.0-windows\Send Email.deps.json
+C:\Users\gokal\source\repos\Send Email\Send Email\bin\Debug\net6.0-windows\Send Email.runtimeconfig.json
+C:\Users\gokal\source\repos\Send Email\Send Email\bin\Debug\net6.0-windows\Send Email.dll
+C:\Users\gokal\source\repos\Send Email\Send Email\bin\Debug\net6.0-windows\Send Email.pdb
+C:\Users\gokal\source\repos\Send Email\Send Email\obj\Debug\net6.0-windows\Send_Email.Form1.resources
+C:\Users\gokal\source\repos\Send Email\Send Email\obj\Debug\net6.0-windows\Send Email.csproj.GenerateResource.cache
+C:\Users\gokal\source\repos\Send Email\Send Email\obj\Debug\net6.0-windows\Send Email.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gokal\source\repos\Send Email\Send Email\obj\Debug\net6.0-windows\Send Email.AssemblyInfoInputs.cache
+C:\Users\gokal\source\repos\Send Email\Send Email\obj\Debug\net6.0-windows\Send Email.AssemblyInfo.cs
+C:\Users\gokal\source\repos\Send Email\Send Email\obj\Debug\net6.0-windows\Send Email.csproj.CoreCompileInputs.cache
+C:\Users\gokal\source\repos\Send Email\Send Email\obj\Debug\net6.0-windows\Send Email.sourcelink.json
+C:\Users\gokal\source\repos\Send Email\Send Email\obj\Debug\net6.0-windows\Send Email.dll
+C:\Users\gokal\source\repos\Send Email\Send Email\obj\Debug\net6.0-windows\refint\Send Email.dll
+C:\Users\gokal\source\repos\Send Email\Send Email\obj\Debug\net6.0-windows\Send Email.pdb
+C:\Users\gokal\source\repos\Send Email\Send Email\obj\Debug\net6.0-windows\Send Email.genruntimeconfig.cache
+C:\Users\gokal\source\repos\Send Email\Send Email\obj\Debug\net6.0-windows\ref\Send Email.dll
+C:\Users\gokal\source\repos\Send Email\Send Email\obj\Debug\net6.0-windows\Send_Email.FRM_Alert.resources
+C:\Users\gokal\source\repos\Send Email\Send Email\obj\Debug\net6.0-windows\Send_Email.Properties.Resources.resources
