@@ -3,13 +3,10 @@
 ## Proje Açıklaması
 Bu projeyi, **Udemy** üzerinde tamamladığım "Asp.Net Core ile Dinamik Portfolyo Web Sitesi" kursu kapsamında geliştirdim. Bu eğitim, iki parttan oluşmaktadır:
 
-1. Partta: Kullanıcı arayüzü (UI)
-2. Partta: Admin paneli
+![bb](https://github.com/user-attachments/assets/1aa5fdff-24e7-4536-991c-4b7ee08c4907)
 
-Depoya klonla
-$ git klonu https://github.com/gokallpp/Asp.Net-MVC-Portfolyo-Uygulamas-
+
+
 
 2024 © Abdullah GÖKALP
 
-### Kullanılan Teknolojiler 
-***
