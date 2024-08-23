@@ -1,4 +1,4 @@
-## **Mail Flow Application***
+## **Mail Flow Application**
 
 ## Proje Açıklaması
 Bu projeyi, **Udemy** üzerinde tamamladığım "Asp.Net Core ile Dinamik Portfolyo Web Sitesi" kursu kapsamında geliştirdim. Bu eğitim, iki parttan oluşmaktadır:
