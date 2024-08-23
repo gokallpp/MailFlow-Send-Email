@@ -1,7 +1,7 @@
 ## **Mail Flow Application**
 
 ## Proje Açıklaması
-Windows Form kullanaraka geliştirdiğim e-posta gönderme uygulaması
+Windows Form kullanaraka geliştirdiğim e-posta gönderme uygulaması:
 
 ![bb](https://github.com/user-attachments/assets/1aa5fdff-24e7-4536-991c-4b7ee08c4907)
 
