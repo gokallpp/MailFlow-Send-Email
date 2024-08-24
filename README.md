@@ -7,6 +7,5 @@ Windows Form kullanarak geliştirdiğim e-posta gönderme uygulaması:
 
 
 
-
 2024 © Abdullah GÖKALP
 
